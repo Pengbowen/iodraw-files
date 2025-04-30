@@ -20,7 +20,7 @@
           <mxGeometry x="239" y="508" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cIySx8n0AcF8yYJOTO1g-7" value="视频管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="264" width="124" height="49" as="geometry" />
+          <mxGeometry x="332" y="320" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cIySx8n0AcF8yYJOTO1g-8" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cIySx8n0AcF8yYJOTO1g-2" target="cIySx8n0AcF8yYJOTO1g-3">
           <mxGeometry relative="1" as="geometry">
